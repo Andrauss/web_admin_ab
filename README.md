@@ -1,2 +1,2 @@
-# web_admin_ab
-Painel admin - Agenda Beauty
+# Painel ADM - Agenda Beauty
+Painel admin para consulta de empresas e usuários cadastrados pelo Agenda Beauty Pro.
